@@ -1,0 +1,5 @@
+com\springboot\northrow\freezer\catalog\FreezerCatalog.class
+com\springboot\northrow\freezer\catalog\controller\FreezerCatalogController.class
+com\springboot\northrow\freezer\catalog\entities\FoodItems.class
+com\springboot\northrow\freezer\catalog\dao\FreezerCatalogDAO.class
+com\springboot\northrow\freezer\catalog\service\FreezerCatalogService.class
